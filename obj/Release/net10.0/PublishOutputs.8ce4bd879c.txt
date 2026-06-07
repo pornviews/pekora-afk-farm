@@ -1,0 +1,5 @@
+C:\Users\larpingrentals\source\repos\pekora afk\bin\Release\net10.0\publish\pekora afk.exe
+C:\Users\larpingrentals\source\repos\pekora afk\bin\Release\net10.0\publish\pekora afk.dll
+C:\Users\larpingrentals\source\repos\pekora afk\bin\Release\net10.0\publish\pekora afk.deps.json
+C:\Users\larpingrentals\source\repos\pekora afk\bin\Release\net10.0\publish\pekora afk.runtimeconfig.json
+C:\Users\larpingrentals\source\repos\pekora afk\bin\Release\net10.0\publish\pekora afk.pdb
